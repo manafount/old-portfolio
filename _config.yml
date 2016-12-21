@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Mana
 tagline:          'A Jekyll theme'
 description:      'Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              manafount.github.io/blog/
-baseurl:          /blog/
+url:              manafount.github.io/
+baseurl:          /
 
 author:
   name:           'Matt Kerchner'
