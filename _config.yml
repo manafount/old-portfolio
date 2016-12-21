@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Mana
+tagline:          'A Jekyll theme'
+description:      'Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              manafount.github.io/blog/
+baseurl:          /blog/
+
+author:
+  name:           'Matt Kerchner'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+
+github:
+  repo:           https://github.com/manafount/
